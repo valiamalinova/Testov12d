@@ -6,7 +6,7 @@ namespace GitExercise
     {
         public static void Main()
         {
-            Console.WriteLine("Console Calculator App NEW");
+            Console.WriteLine("Console Calculator App NEW 2");
             Console.WriteLine(new string('-', 15));
 
             Console.Write("a = ");
