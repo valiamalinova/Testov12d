@@ -12,7 +12,7 @@ namespace GitExercise
 
         public static void Add(double a, double b)
         {
-            //СЪБИРАНЕ
+            //СЪБИРАНЕ +
             Console.WriteLine($"{a} + {b} = {a + b}");
         }
 
